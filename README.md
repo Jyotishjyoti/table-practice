@@ -1,12 +1,41 @@
-# React + Vite
+# Table Practice App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+An interactive web app to help students practice multiplication tables.
 
-Currently, two official plugins are available:
+🔗 **Live Demo:** [https://table-app-xi.vercel.app/](https://table-app-xi.vercel.app/)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## Expanding the ESLint configuration
+## ✨ Features
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- Select a number and instantly generate its multiplication table
+- Simple, responsive interface
+- Built using **React** and **Vite**
+- Hosted on **Vercel**
+
+---
+
+## 🚀 Tech Stack
+
+- React
+- Vite
+- JavaScript
+- HTML/CSS
+- GitHub
+- Vercel
+
+---
+
+## 📚 Purpose
+
+This app was created as a learning tool for students and as a demonstration of my ability to:
+
+- Build functional web applications
+- Use version control effectively
+- Deploy apps with modern tools like Vercel
+
+---
+
+## 👨‍💻 Author
+
+- [@Jyotishjyoti](https://github.com/Jyotishjyoti)
