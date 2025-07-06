@@ -38,4 +38,5 @@ This app was created as a learning tool for students and as a demonstration of m
 
 ## 👨‍💻 Author
 
-- [@Jyotishjyoti](https://github.com/Jyotishjyoti)
+- [@Jyotishjyoti](https://github.com/Jyotishjyoti)  
+![Visitor Count](https://profile-counter.glitch.me/table-practice/count.svg)
